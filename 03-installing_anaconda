@@ -1,0 +1,20 @@
+The process of Installing Anaconda 
+
+sudo bash anaconda_install_file
+
+conda -v
+conda create -n test_env python=3.8
+
+sudo chwon -R maestro:maestro .conda/
+
+python -v
+source activate test_env
+python -v
+
+pip install django
+
+python
+
+import django 
+
+cando activate
